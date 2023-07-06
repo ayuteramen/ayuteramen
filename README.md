@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-### プロフィール
-# 名前:宮田莉奈
-所属:愛媛大学 工学部 工学科 人工知能研究室
-mail:miyata@ai.cs.ehime-u.ac.jp
+# プロフィール
+- 名前:寺面杏優
+- 所属:愛媛大学 工学部 工学科 人工知能研究室
+- mail:teramen@ai.cs.ehime-u.ac.jp
