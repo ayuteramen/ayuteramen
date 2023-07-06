@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **ayuteramen/ayuteramen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,10 @@ Here are some ideas to get you started:
 -->
 
 
-# プロフィール
-- 名前:寺面杏優
-- 所属:愛媛大学 工学部 工学科 人工知能研究室
-- mail:teramen@ai.cs.ehime-u.ac.jp
+## プロフィール
+- 名前： 寺面 杏優
+- 所属： 愛媛大学 工学部 工学科 人工知能研究室
+- mail： teramen@ai.cs.ehime-u.ac.jp
+
+## 研究業績
+## 資格
