@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### プロフィール
+# 名前:宮田莉奈
+所属:愛媛大学 工学部 工学科 人工知能研究室
+mail:miyata@ai.cs.ehime-u.ac.jp
