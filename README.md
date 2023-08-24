@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 - mail： teramen@ai.cs.ehime-u.ac.jp
 
 ## 研究業績
-- 寺面　杏優, 梶原 智之, 二宮　崇.  
-講演動画における英日字幕翻訳のためのマルチモーダル対訳コーパスの試作.  
-NLP若手の会第18回シンポジウム, August 2023.  
+- 寺面　杏優, 梶原 智之, 二宮　崇.<br>
+講演動画における英日字幕翻訳のためのマルチモーダル対訳コーパスの試作.<br>
+NLP若手の会第18回シンポジウム, August 2023.<br>
 
 ## 資格
 
