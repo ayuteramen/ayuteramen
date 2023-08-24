@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 ## プロフィール
 - 名前： 寺面 杏優
-- 所属： 愛媛大学 工学部 工学科 人工知能研究室
+- 所属： 愛媛大学 工学部 工学科 人工知能研究室 B4
 - mail： teramen@ai.cs.ehime-u.ac.jp
 
 ## 研究業績
@@ -26,9 +26,6 @@ Here are some ideas to get you started:
 講演動画における英日字幕翻訳のためのマルチモーダル対訳コーパスの試作.<br>
 NLP若手の会第18回シンポジウム, August 2023.<br>
 
-## 資格
-
 ## その他
-2023
-- 愛媛大学工学部工学科コンピュータ科学コース優秀学生　(3年次)
+- 愛媛大学工学部工学科コンピュータ科学コース優秀学生　(3年次)[link[https://www.cs.ehime-u.ac.jp/%e5%9c%a8%e5%ad%a6%e7%94%9f%e3%81%ae%e6%96%b9/%e5%84%aa%e7%a7%80%e5%ad%a6%e7%94%9f%e8%a1%a8%e5%bd%b0%e5%88%b6%e5%ba%a6/]]
 
