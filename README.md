@@ -16,16 +16,18 @@ Here are some ideas to get you started:
 -->
 
 
+
 ## プロフィール
-- 名前： 寺面 杏優
-- 所属： 愛媛大学 工学部 工学科 人工知能研究室 B4
-- mail： teramen@ai.cs.ehime-u.ac.jp
+- 名前 ： 寺面 杏優 （Teramen Ayu）
+- 所属 ： 愛媛大学 工学部 工学科 [人工知能研究室](https://sites.google.com/view/ehime-nlp/) B4
+- mail ： teramen@ai.cs.ehime-u.ac.jp
 
 ## 研究業績
 - 寺面 杏優, 梶原 智之, 二宮 崇.<br>
 講演動画における英日字幕翻訳のためのマルチモーダル対訳コーパスの試作.<br>
-NLP若手の会第18回シンポジウム, August 2023.<br>
+NLP若手の会第18回シンポジウム（YANS2023）, September 2023. <!-- \[[PDF](URL)\] -->
 
-## その他
-- 愛媛大学工学部工学科コンピュータ科学コース優秀学生　(3年次)[[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
+## 受賞
+- 2022年度 3年次成績優秀学生[[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
+
 
