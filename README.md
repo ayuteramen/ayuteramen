@@ -24,16 +24,16 @@ Here are some ideas to get you started:
 
 
 ## 研究業績
-### 国際学会
+### 国際会議
 #### 主著
 - 寺面 杏優, 大塚 琢生, 近藤 里咲, 梶原 智之, 二宮 崇. <br>
-English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching of Lecture Videos <br>
+English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching of Lecture Videos. <br>
 3rd Workshop on Advances in Language and Vision Research (ALVR), Bangkok, Thailand, August 2024. (to appear)
 
-### 国内学会
+### 国内会議
 #### 主著
 - 寺面 杏優, 大塚 琢生, 梶原 智之, 二宮 崇. <br>
-講演動画の画像言語マッチングに基づくマルチモーダル機械翻訳 <br>
+講演動画の画像言語マッチングに基づくマルチモーダル機械翻訳. <br>
 情報処理学会第86回全国大会, pp.859-860, March 2024. 
 [[pdf](https://drive.google.com/file/d/1RSbK9DYQhEnxWDXvbfcp_Qqg8n8IU-Ak/view?usp=sharing)] 
 [[slide](https://drive.google.com/file/d/1dvRkcCXJacKCZncZNDcS4vvwIslNkdvU/view?usp=sharing)]
