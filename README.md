@@ -57,6 +57,5 @@ NLP若手の会第18回シンポジウム（YANS2023）, August 2023.
 
 ## 受賞
 - 2022年度 3年次成績優秀学生 
-[[link](https://www.cs.ehime-u.ac.jp/%E5%9C%A8%E5%AD%A6%E7%94%9F%E3%81%AE%E6%96%B9/%E5%84%AA%E7%A7%80%E5%AD%A6%E7%94%9F%E8%A1%A8%E5%BD%B0%E5%88%B6%E5%BA%A6/)]
 
 
