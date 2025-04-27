@@ -32,6 +32,11 @@ English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching 
 [[pdf](https://drive.google.com/file/d/1ccbR6UsiNLwQg5NOcsL6qM-f0GdX65r5/view?usp=sharing)] 
 [[poster](https://drive.google.com/file/d/1BqhDhSZRLm16dAXzIeV5BUzTU_7yF58w/view?usp=sharing)]
 
+#### 共著
+- Risa Kondo, Ayu Teramen, Reon Kajikawa, Koki Horiguchi, Tomoyuki Kajiwara, Takashi Ninomiya, Hideaki Hayashi, Yuta Nakashima, Hajime Nagahara.<br>
+Text Normalization for Sentiment Analysis in Japanese Social Media.<br>
+In Proceedings of the 10th Workshop on Noisy and User-generated Text (W-NUT 2025), pp.xxx-xxx, New Mexico, USA, May 2025. (to appear)
+
 ### 国内会議
 #### 主著
 - 寺面 杏優, 梶原 智之, 二宮 崇. <br>
