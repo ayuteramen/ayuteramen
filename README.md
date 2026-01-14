@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 ## 研究業績
 ### 国際会議
 #### 主著
-- 寺面 杏優, 大塚 琢生, 近藤 里咲, 梶原 智之, 二宮 崇. <br>
+- Ayu Teramen,  Takumi Ohtsuka,  Risa Kondo,  Tomoyuki Kajiwara,  Takashi Ninomiya. <br>
 English-to-Japanese Multimodal Machine Translation Based on Image-Text Matching of Lecture Videos. <br>
 3rd Workshop on Advances in Language and Vision Research (ALVR), Bangkok, Thailand, August 2024.
 [[pdf](https://aclanthology.org/2024.alvr-1.7.pdf)] 
